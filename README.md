@@ -1,6 +1,7 @@
 # quicknotes
 
-Quick notes App
+Quick notes App Dev By Mohammed Saad ALrmali
+WebSite : 
 
 ## Getting Started
 
